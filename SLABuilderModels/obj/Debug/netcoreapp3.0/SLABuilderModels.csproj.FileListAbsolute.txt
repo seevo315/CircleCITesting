@@ -1,0 +1,7 @@
+C:\Users\pseverson\source\repos\SLABuilderModels\bin\Debug\netcoreapp3.0\SLABuilderModels.deps.json
+C:\Users\pseverson\source\repos\SLABuilderModels\bin\Debug\netcoreapp3.0\SLABuilderModels.dll
+C:\Users\pseverson\source\repos\SLABuilderModels\bin\Debug\netcoreapp3.0\SLABuilderModels.pdb
+C:\Users\pseverson\source\repos\SLABuilderModels\obj\Debug\netcoreapp3.0\SLABuilderModels.AssemblyInfoInputs.cache
+C:\Users\pseverson\source\repos\SLABuilderModels\obj\Debug\netcoreapp3.0\SLABuilderModels.AssemblyInfo.cs
+C:\Users\pseverson\source\repos\SLABuilderModels\obj\Debug\netcoreapp3.0\SLABuilderModels.dll
+C:\Users\pseverson\source\repos\SLABuilderModels\obj\Debug\netcoreapp3.0\SLABuilderModels.pdb

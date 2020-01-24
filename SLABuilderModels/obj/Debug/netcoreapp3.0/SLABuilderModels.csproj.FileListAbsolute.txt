@@ -12,3 +12,4 @@ C:\Users\pseverson\mySource\CircleCITesting\SLABuilderModels\obj\Debug\netcoreap
 C:\Users\pseverson\mySource\CircleCITesting\SLABuilderModels\bin\Debug\netcoreapp3.0\SLABuilderModels.deps.json
 C:\Users\pseverson\mySource\CircleCITesting\SLABuilderModels\bin\Debug\netcoreapp3.0\SLABuilderModels.dll
 C:\Users\pseverson\mySource\CircleCITesting\SLABuilderModels\bin\Debug\netcoreapp3.0\SLABuilderModels.pdb
+C:\Users\pseverson\mySource\CircleCITesting\SLABuilderModels\obj\Debug\netcoreapp3.0\SLABuilderModels.csprojAssemblyReference.cache

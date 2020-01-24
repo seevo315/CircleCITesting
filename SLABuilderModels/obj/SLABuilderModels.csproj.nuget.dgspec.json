@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\SLABuilderModels.csproj": {}
+    "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\SLABuilderModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\SLABuilderModels.csproj": {
+    "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\SLABuilderModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\SLABuilderModels.csproj",
+        "projectUniqueName": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\SLABuilderModels.csproj",
         "projectName": "SLABuilderModels",
-        "projectPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\SLABuilderModels.csproj",
+        "projectPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\SLABuilderModels.csproj",
         "packagesPath": "C:\\Users\\pseverson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\obj\\",
+        "outputPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

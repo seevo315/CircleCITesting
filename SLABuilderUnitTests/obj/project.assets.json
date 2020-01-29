@@ -6816,11 +6816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pseverson\\source\\repos\\SLABuilderUnitTests\\SLABuilderUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderUnitTests\\SLABuilderUnitTests.csproj",
       "projectName": "SLABuilderUnitTests",
-      "projectPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilderUnitTests\\SLABuilderUnitTests.csproj",
+      "projectPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderUnitTests\\SLABuilderUnitTests.csproj",
       "packagesPath": "C:\\Users\\pseverson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilderUnitTests\\obj\\",
+      "outputPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

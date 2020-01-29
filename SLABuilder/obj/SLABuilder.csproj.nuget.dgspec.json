@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pseverson\\source\\repos\\SLABuilder\\SLABuilder.csproj": {}
+    "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilder\\SLABuilder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pseverson\\source\\repos\\SLABuilderAPI\\SLABuilderAPI.csproj": {
+    "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderAPI\\SLABuilderAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pseverson\\source\\repos\\SLABuilderAPI\\SLABuilderAPI.csproj",
+        "projectUniqueName": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderAPI\\SLABuilderAPI.csproj",
         "projectName": "SLABuilderAPI",
-        "projectPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilderAPI\\SLABuilderAPI.csproj",
+        "projectPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderAPI\\SLABuilderAPI.csproj",
         "packagesPath": "C:\\Users\\pseverson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilderAPI\\obj\\",
+        "outputPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -34,8 +34,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\SLABuilderModels.csproj": {
-                "projectPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\SLABuilderModels.csproj"
+              "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\SLABuilderModels.csproj": {
+                "projectPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\SLABuilderModels.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\SLABuilderModels.csproj": {
+    "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\SLABuilderModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\SLABuilderModels.csproj",
+        "projectUniqueName": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\SLABuilderModels.csproj",
         "projectName": "SLABuilderModels",
-        "projectPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\SLABuilderModels.csproj",
+        "projectPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\SLABuilderModels.csproj",
         "packagesPath": "C:\\Users\\pseverson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilderModels\\obj\\",
+        "outputPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -153,14 +153,14 @@
         }
       }
     },
-    "C:\\Users\\pseverson\\source\\repos\\SLABuilder\\SLABuilder.csproj": {
+    "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilder\\SLABuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pseverson\\source\\repos\\SLABuilder\\SLABuilder.csproj",
+        "projectUniqueName": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilder\\SLABuilder.csproj",
         "projectName": "SLABuilder",
-        "projectPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilder\\SLABuilder.csproj",
+        "projectPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilder\\SLABuilder.csproj",
         "packagesPath": "C:\\Users\\pseverson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilder\\obj\\",
+        "outputPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -183,8 +183,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\pseverson\\source\\repos\\SLABuilderAPI\\SLABuilderAPI.csproj": {
-                "projectPath": "C:\\Users\\pseverson\\source\\repos\\SLABuilderAPI\\SLABuilderAPI.csproj"
+              "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderAPI\\SLABuilderAPI.csproj": {
+                "projectPath": "C:\\Users\\pseverson\\mySource\\CircleCITesting\\SLABuilderAPI\\SLABuilderAPI.csproj"
               }
             }
           }

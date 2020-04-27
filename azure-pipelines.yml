@@ -32,3 +32,9 @@ steps:
 - task: CmdLine@2
   inputs:
     script: 'C:\apache-jmeter-5.2.1\bin\jmeter -n -t c:\temp\test-scenario.jmx -l c:\temp\TfsJmeterResults.csv'
+
+- task: PublishTestResults@2
+  inputs:
+    testResultsFormat: 'JUnit'
+    testResultsFiles: '**/TEST-*.xml'
+    testRunTitle: 'Unit Test Output'

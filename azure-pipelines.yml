@@ -28,6 +28,7 @@ steps:
       !**\*TestAdapter.dll
       !**\obj\**
     searchFolder: '$(System.DefaultWorkingDirectory)'
+    testRunTitle: 'Automated Unit Testing'
 
 - task: CmdLine@2
   inputs:
@@ -38,3 +39,5 @@ steps:
     testResultsFormat: 'JUnit'
     testResultsFiles: '**/TEST-*.xml'
     testRunTitle: 'Unit Test Output'
+
+- task: PublishPipelineMetadata@0
